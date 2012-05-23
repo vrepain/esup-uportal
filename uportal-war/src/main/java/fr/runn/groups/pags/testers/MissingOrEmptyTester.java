@@ -4,11 +4,11 @@ import org.jasig.portal.groups.pags.testers.BaseAttributeTester;
 import org.jasig.portal.security.IPerson;
 
 /**
- * Tests whether the attribute is null 
+ * Tests whether the attribute is null (or empty)
  */
-public class MissingTester extends BaseAttributeTester {
+public class MissingOrEmptyTester extends BaseAttributeTester {
 
-    public MissingTester(String attribute, String test) {
+    public MissingOrEmptyTester(String attribute, String test) {
         super(attribute, test);
     }
 
