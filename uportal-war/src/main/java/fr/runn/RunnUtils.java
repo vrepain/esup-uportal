@@ -26,7 +26,7 @@ public class RunnUtils {
 
 			// goal is to put unicaen.fr for example like an
 			// uPortalTemplateUserName
-			Pattern p = Pattern.compile("(.*)@(.*);?(.*)");
+			Pattern p = Pattern.compile("(.*)@(.*)");
 			Matcher m = p.matcher(affiliation);
 			if (m.find() == true)
 				univKey = m.group(2);
