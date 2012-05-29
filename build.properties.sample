@@ -71,3 +71,6 @@ cleanShared=true
 
 # Prompt the user before running ant tasks that could modify the database
 prodPrompt=false
+# which filter file do we use 
+env=esup
+
