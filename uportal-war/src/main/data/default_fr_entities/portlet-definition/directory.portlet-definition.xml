@@ -23,7 +23,7 @@
     <title>Répertoire</title>
     <name>Répertoire</name>
     <fname>directory</fname>
-    <desc>répertoire de contacts</desc>
+    <desc>Répertoire de contacts</desc>
     <type>Portlet</type>
     <timeout>30000</timeout>
     <portlet-descriptor>
