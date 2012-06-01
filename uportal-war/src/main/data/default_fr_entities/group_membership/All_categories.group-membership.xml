@@ -26,7 +26,7 @@
   <description>Toutes les catégories de portlets</description>
   <children>
     <group>Administration</group>
-    <group>Developpement</group>
+    <group>Développement</group>
     <group>Information</group>
     <group>uPortal</group>
   </children>
